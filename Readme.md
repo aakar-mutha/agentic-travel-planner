@@ -21,7 +21,11 @@ Virtual Travel is a Agentic AI which helps you plan a vacation.
     * PLANNER_CRITIQUE_PROMPT: It gives feedback on the itinerary that is generated. Suggests what else can be considered to plan the vacation.
     * PLANNER_CRITIQUE_ASSISTANT_PROMPT: Calls the tavily api for more information to gather information on suggestions.
 
-![Cyclic Graph](images/graph.png)
+
+
+<p align="center">
+  <img src="/images/graph.png" />
+</p>
 
 
 ## Installation
